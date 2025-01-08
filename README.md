@@ -1,7 +1,7 @@
-# <u>ExcelR-AD-Repository</u>
-## A log tracking progress in **ExcelR-AD** classes.
+# <u>adtrial</u>
+## A log tracking progress in **AD** classes.
 
-This repository documents daily learnings, tasks, and skills developed during **ExcelR-AD** classes, providing a concise record of progress.
+This repository documents daily learnings, tasks, and skills developed during **AD** classes, providing a concise record of progress.
 
 ## [Daily Progress](#progress)
 
