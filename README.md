@@ -21,5 +21,6 @@ This repository documents daily learnings, tasks, and skills developed during **
 - **Day 10**: ✅
 - **Day 11**: ✅
 - **Day 12**: ✅
+- **Day 13**: ✅
 
 ---
